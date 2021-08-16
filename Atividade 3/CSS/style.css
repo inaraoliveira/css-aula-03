@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://cdn-0.emojis.wiki/emoji-pics/lg/fire-lg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+}
+
+h1{
+    background-color: green;
+    color: white;
+}
